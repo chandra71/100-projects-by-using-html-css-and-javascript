@@ -1,4 +1,3 @@
-# 100-projects-by-using-html-css-and-javascript
 
 # 💯 100 Projects Using HTML, CSS, and JavaScript
 
